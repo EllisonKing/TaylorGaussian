@@ -1,1 +1,2 @@
-# TaylorGaussian
+
+# litgaussian.github.io
