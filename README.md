@@ -1,2 +1,2 @@
 
-# litgaussian.github.io
+# gaussian.github.io
